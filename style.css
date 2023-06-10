@@ -245,7 +245,7 @@ i:hover{
     padding: 30px 60px 0px 60px ;
     background-image: url('bg-hero-desktop.svg'); 
     height: 100vh;
-     margin-bottom: 150px;
+    margin-bottom: 150px;
 }
 
 .dummy{
@@ -273,7 +273,7 @@ i:hover{
    article h2{
     width: 80%;
     text-align: left;
-    font: 600 40px Poppins;
+    font: 600 30px Poppins;
    }
    
    article p{
