@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - [solution URL](https://github.com/timi-emmanuel/first-landing-page)
-- [live site](https://your-live-site-url.com)
+- [live site](https://first-landing-page-evefeyxvx-timi-emmanuel.vercel.app/)
 
 ## My process
 
